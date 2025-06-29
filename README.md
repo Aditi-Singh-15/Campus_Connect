@@ -36,6 +36,25 @@ Built for students. Backed by AI. Driven by real data. 💡
 > Track saved colleges, booked sessions, video recommendations, and XP — all in one place.
 
 ---
+---
+
+## 📸 Screenshots & Architecture
+
+### 🧱 System Architecture
+
+![Architecture Diagram](./Architecture.jpeg)
+![Use Case](./UseCase.jpeg)  
+
+
+
+---
+
+## 📽️ Watch Demo
+
+👉 [CampusConnect Demo - YouTube](https://youtu.be/6wZdsJ0ldPk?si=6LLgnTKU24iRTYBN)
+
+---
+
 
 ## 🧱 Tech Stack
 
