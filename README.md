@@ -36,11 +36,11 @@ Built for students. Backed by AI. Driven by real data. 💡
 > Track saved colleges, booked sessions, video recommendations, and XP — all in one place.
 
 ---
----
+
 
 ## 📸 Screenshots & Architecture
 
-### 🧱 System Architecture
+### 🧱 System Architecture and Use Case Diagrams
 
 ![Architecture Diagram](./Architecture.jpeg)
 ![Use Case](./UseCase.jpeg)  
